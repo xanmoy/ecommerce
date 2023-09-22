@@ -3,7 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-
+```bash
+npm i bcrypt firebase joi js-cookie jsonwebtoken mongoose react-toastify stripe @stripe/stripe-js @headlessui/react
+```
 ```bash
 npm run dev
 # or
